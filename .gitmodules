@@ -1,0 +1,6 @@
+[submodule "budoHansRoosApp"]
+	path = budoHansRoosApp
+	url = https://github.com/Tcooleboy/budoHansRoosApp
+[submodule "budoHansRoosServer"]
+	path = budoHansRoosServer
+	url = https://github.com/Tcooleboy/budoHansRoosServer
